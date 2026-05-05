@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.3/bigcastor_v1.0.3.zip",
-  "zip_sha256": "2ace0d1e180065d5783eec8575212d1160bc7fe028a831d26c4252711f4221fd",
-  "release_notes": "Auto-release 2026-05-05 18:13"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.4/bigcastor_v1.0.4.zip",
+  "zip_sha256": "7e73c32f710178377bba6f7291472fa8afb3fdba083dd3da53da3f520cd6480b",
+  "release_notes": "Auto-update fix: API endpoint, BOM strip, in-zip versioning"
 }
