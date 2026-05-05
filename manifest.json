@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.7/bigcastor_v1.0.7.zip",
-  "zip_sha256": "fe62222a547cd8c1595dba23e091d1bc183c51d1be945b7f92c1cdaae1225c0a",
-  "release_notes": "Fix: bigcastor_data.json + logs/ preserves entre updates (plus de mix de comptes)"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.8/bigcastor_v1.0.8.zip",
+  "zip_sha256": "bba30d61b13623df7eecb9fb8c5fee6ad127bff1c3ab1f3e32d87f55a6ae8105",
+  "release_notes": "v1.0.8: bouton Brave par compte (proxy auto-auth) + tri auto par port + accounts preserved entre updates"
 }
