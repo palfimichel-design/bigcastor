@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.12/bigcastor_v1.0.12.zip",
-  "zip_sha256": "686d6d07da026c753fecb190199888a791f8ab823e13203e5ca8799fb8264e17",
-  "release_notes": "v1.0.12: theme Mimikyu x Gengar VRAIMENT visible (titre 3D rose-violet-jaune, pills ghost-pop, brand retro/dofus3 fantome)"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.13/bigcastor_v1.0.13.zip",
+  "zip_sha256": "fdd618e19af8a5f84a8995cff96bb5054ad1afa4620e3d1de141936804bfee32",
+  "release_notes": "v1.0.13: bouton WEB rose Mimikyu visible par compte + pill Navigateur ouvre Brave en bulk pour comptes selectionnes"
 }
