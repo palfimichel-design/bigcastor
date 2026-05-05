@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.9/bigcastor_v1.0.9.zip",
-  "zip_sha256": "4fe21a79cffc5834602083f159d7be0604bd6da6d37e415e1cfbb84ba0c65cc1",
-  "release_notes": "v1.0.9: fluidite (cache sprites, rebuild incremental, launch non-bloquant 88s->0)"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.10/bigcastor_v1.0.10.zip",
+  "zip_sha256": "78ea8899ac00582df753aff04f40963112cfb8e445c1d304bc9b36199c35cfc4",
+  "release_notes": "v1.0.10: FIX gros bug \u2014 profil Dofus key sur email (plus sur idx) \u2192 supprimer+ajouter un compte ne reuse plus les cookies de l'ancien"
 }
