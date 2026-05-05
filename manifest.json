@@ -1,7 +1,7 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.10/bigcastor_v1.0.10.zip",
-  "zip_sha256": "78ea8899ac00582df753aff04f40963112cfb8e445c1d304bc9b36199c35cfc4",
-  "release_notes": "v1.0.10: FIX gros bug \u2014 profil Dofus key sur email (plus sur idx) \u2192 supprimer+ajouter un compte ne reuse plus les cookies de l'ancien"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.11/bigcastor_v1.0.11.zip",
+  "zip_sha256": "8088ddfb0e22073802b48ac55fea7c95af2ede4beef189091c0de2028d76f9eb",
+  "release_notes": "v1.0.11: theme Mimikyu x Ectoplasma + landing page Brave (proxy/IP/creds visibles + copy 1-click) + state cache refresh_status (fluide)"
 }
