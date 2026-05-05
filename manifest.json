@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.5/bigcastor_v1.0.5.zip",
-  "zip_sha256": "d8fd9bd8e24449893cd254e5797a27b536c84050ed89eec4f5cedb4121492a31",
-  "release_notes": "Status visible: a jour ou MAJ en cours"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.6/bigcastor_v1.0.6.zip",
+  "zip_sha256": "969ad6fc398c72a62ce65a277b1872a3e4bf858cda0904ff6e999c0df9706fb8",
+  "release_notes": "Fix WinError 87 spawn bat (flags mutually exclusive)"
 }
