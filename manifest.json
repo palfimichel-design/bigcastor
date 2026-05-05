@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.2/bigcastor_v1.0.2.zip",
-  "zip_sha256": "e7b12555f03337b3d7c1356456bbdf43eb370e49272096d52e8789e7a2f2bb66",
-  "release_notes": "Auto-release 2026-05-05 18:12"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.3/bigcastor_v1.0.3.zip",
+  "zip_sha256": "2ace0d1e180065d5783eec8575212d1160bc7fe028a831d26c4252711f4221fd",
+  "release_notes": "Auto-release 2026-05-05 18:13"
 }
