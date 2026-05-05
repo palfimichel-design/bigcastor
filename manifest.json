@@ -1,7 +1,7 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.14/bigcastor_v1.0.14.zip",
-  "zip_sha256": "3f7a6a8637baca54660cc3be18063a7919bf313f87a10948ecc56b24566e3697",
-  "release_notes": "v1.0.14: Mimikyu (gauche) + Ectoplasma/Gengar (droite) \u2014 fini Dracaufeu/Mewtwo"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.15/bigcastor_v1.0.15.zip",
+  "zip_sha256": "c5d071999ad099cfbf722e4f7de14e92e8cb6bb055df9a280f82ad15e0114641",
+  "release_notes": "v1.0.15: header avec gradient radial violet + scanlines + bord rose neon (premium gaming feel)"
 }
