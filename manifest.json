@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "release_date": "2026-05-05",
-  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.11/bigcastor_v1.0.11.zip",
-  "zip_sha256": "8088ddfb0e22073802b48ac55fea7c95af2ede4beef189091c0de2028d76f9eb",
-  "release_notes": "v1.0.11: theme Mimikyu x Ectoplasma + landing page Brave (proxy/IP/creds visibles + copy 1-click) + state cache refresh_status (fluide)"
+  "zip_url": "https://github.com/palfimichel-design/bigcastor/releases/download/v1.0.12/bigcastor_v1.0.12.zip",
+  "zip_sha256": "686d6d07da026c753fecb190199888a791f8ab823e13203e5ca8799fb8264e17",
+  "release_notes": "v1.0.12: theme Mimikyu x Gengar VRAIMENT visible (titre 3D rose-violet-jaune, pills ghost-pop, brand retro/dofus3 fantome)"
 }
